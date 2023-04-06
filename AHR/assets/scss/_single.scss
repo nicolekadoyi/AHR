@@ -1,0 +1,51 @@
+@import "_variables"; 
+
+////////////////Single Cases Styling////////////////////////
+.singlesContent{
+    padding-bottom: 5% 10%;
+}
+
+
+.singlesReverse{
+    background-color: $grey;
+    padding-bottom: 5% 10%;
+}
+
+
+
+
+
+
+////////////////Project Styling//////////////////
+.casesHeading{
+    padding-bottom: 2%;
+    color: $white;
+}
+
+.project-heading{
+    padding: 5% 0 ;
+}
+
+.redCases p{
+    //width: 90%;
+    border-left: 5px solid $white;
+    padding-left: 5%;
+}
+
+
+.cases-btn{
+    background-color: $white;
+    padding: 3%;
+    color: $tomato;
+    margin-top: 20%;
+    
+}
+
+.cases-btn:hover{
+    background-color: $white;
+    padding: 3%;
+    color: $tomato;
+    margin-top: 10%;
+    
+}
+

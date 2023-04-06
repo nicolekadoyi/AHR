@@ -1,0 +1,40 @@
+@import "_variables";
+
+.header{
+   background-size: cover;
+}
+
+/////////////////////////////Projects Styling////////////////////////////////
+.greybg{
+   background-color: $grey;
+   padding: 5% 10%;
+
+}
+
+.greybg div{
+   margin-bottom: 5%;
+}
+
+.greybg h4{
+   margin: 5% 0;
+}
+
+.greybg p{
+   border-left: 5px solid $tomato;
+   padding-left: 5%;
+}
+
+
+.greybg a{
+   background-color: $tomato;
+   color: $white;
+   padding: 3%;
+   margin-top: 20%;
+}
+
+.greybg-btn :hover{
+   background-color: $tomato;
+   color: $white;
+   padding: 3%;
+   margin-top: 20%;
+}

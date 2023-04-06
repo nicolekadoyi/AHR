@@ -1,0 +1,250 @@
+/******************* Home page styling **********************/
+/*-----Home hero styling-----*/
+.nav-link {
+  background-color: #F9423A;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+nav {
+  padding: 0;
+}
+
+.home-hero {
+  background-image: url("http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-1.png");
+  background-size: cover;
+  color: #FFFFFF;
+}
+
+h1 {
+  width: 50%;
+  margin: auto;
+}
+
+.hero-content {
+  padding: 5% 0 10% 0;
+  text-align: center;
+}
+
+.hero-text, .banner-text {
+  width: 35%;
+  margin: auto;
+  padding-bottom: 3%;
+}
+
+.hero-btn {
+  background-color: #F9423A;
+  color: #FFFFFF;
+  border-color: transparent;
+}
+
+/*-----Socials styling-----*/
+div.follow {
+  background-color: #F9423A;
+  padding: 2.5%;
+  color: #FFFFFF;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+div.social-icons {
+  background-color: #F9F9F9;
+  padding: 0%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.fa-brands {
+  font-size: 150%;
+}
+
+/*-----Residential styling-----*/
+h2 {
+  color: #F9423A;
+  font-weight: bolder;
+  width: 70%;
+}
+
+.residential-text {
+  border-left: 5px solid #F9423A;
+  padding-left: 5%;
+}
+
+/*-----Cases styling-----*/
+.redCases {
+  background-color: #F9423A;
+  padding: 10%;
+  color: #FFFFFF;
+}
+
+.casesHeading {
+  padding-bottom: 2%;
+  color: #FFFFFF;
+}
+
+.project-heading {
+  padding: 5% 0;
+}
+
+.redCases p {
+  border-left: 5px solid #FFFFFF;
+  padding-left: 5%;
+}
+
+.cases-btn {
+  background-color: #FFFFFF;
+  padding: 3%;
+  color: #F9423A;
+  margin-top: 20%;
+}
+
+.cases-btn:hover {
+  background-color: #FFFFFF;
+  padding: 3%;
+  color: #F9423A;
+  margin-top: 10%;
+}
+
+/*-----Banner styling-----*/
+.banner {
+  background-image: url("http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 7% 0 7% 0;
+  margin: 1%;
+}
+
+/*-----Footer styling-----*/
+.socials {
+  text-align: center;
+}
+
+hr {
+  color: #F9423A;
+}
+
+/* Banner section */
+.banner {
+  background-image: url("http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-2.png");
+}
+
+.header {
+  background-size: cover;
+}
+
+.greybg {
+  background-color: #F9F9F9;
+  padding: 5% 10%;
+}
+
+.greybg div {
+  margin-bottom: 5%;
+}
+
+.greybg h4 {
+  margin: 5% 0;
+}
+
+.greybg p {
+  border-left: 5px solid #F9423A;
+  padding-left: 5%;
+}
+
+.greybg a {
+  background-color: #F9423A;
+  color: #FFFFFF;
+  padding: 3%;
+  margin-top: 20%;
+}
+
+.greybg-btn :hover {
+  background-color: #F9423A;
+  color: #FFFFFF;
+  padding: 3%;
+  margin-top: 20%;
+}
+
+@im * {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/* General Styling */
+body {
+  background-color: #FFFFFF;
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.3em;
+}
+
+h1 {
+  font-family: "Public Sans", sans-serif;
+  font-weight: bolder;
+  font-size: 3em;
+  margin-bottom: 3%;
+}
+
+.container {
+  margin: 10%;
+}
+
+header {
+  margin-bottom: 10%;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Footer Styling */
+.footer-socials {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+div.container-fluid.footer-menu ul li {
+  list-style-type: none;
+  margin: 2% 0;
+}
+
+.footer-menu ul li a {
+  color: #000;
+}
+
+.footer-menu ul li.red a {
+  color: #F9423A;
+  font-weight: bold;
+}
+
+.footer-menu ul li.red {
+  margin-bottom: 7%;
+}
+
+.footer-legal ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer-legal ul li {
+  list-style-type: none;
+}
+
+.footer-legal ul li a {
+  color: #000;
+}
+
+.footer-legal ul li.mid-legal {
+  margin: 0 5%;
+}

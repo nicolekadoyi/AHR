@@ -1,0 +1,36 @@
+.singlesContent {
+  padding-bottom: 5% 10%;
+}
+
+.singlesReverse {
+  background-color: #F9F9F9;
+  padding-bottom: 5% 10%;
+}
+
+.casesHeading {
+  padding-bottom: 2%;
+  color: #FFFFFF;
+}
+
+.project-heading {
+  padding: 5% 0;
+}
+
+.redCases p {
+  border-left: 5px solid #FFFFFF;
+  padding-left: 5%;
+}
+
+.cases-btn {
+  background-color: #FFFFFF;
+  padding: 3%;
+  color: #F9423A;
+  margin-top: 20%;
+}
+
+.cases-btn:hover {
+  background-color: #FFFFFF;
+  padding: 3%;
+  color: #F9423A;
+  margin-top: 10%;
+}

@@ -1,0 +1,161 @@
+@import "_variables";
+
+/******************* Home page styling **********************/
+
+/*-----Home hero styling-----*/
+
+.nav-link{
+    background-color: $tomato;
+    color: $white;
+    font-weight: bold;
+}
+
+nav{
+    padding: 0;
+}
+.home-hero{
+    background-image: url("http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-1.png");
+    background-size: cover;
+    color: $white;
+    
+   
+}
+
+h1{
+   width:50%;
+   margin: auto;
+  
+}
+
+.hero-content{
+    padding: 5% 0 10% 0;
+    text-align: center;
+}
+
+.hero-text , .banner-text{
+   width: 35%;
+   margin: auto;
+   padding-bottom: 3%;
+}
+
+.hero-btn{
+    background-color: $tomato;
+    color: $white;
+    border-color: transparent;
+}
+
+/*-----Socials styling-----*/
+
+
+div.follow{
+    background-color: $tomato;
+    padding: 2.5%;
+    color: $white;
+    font-size: 1.1em;
+    font-weight: bold;
+
+}
+
+div.social-icons{
+    background-color: $grey;
+    padding: 0%;
+    display: flex;
+    align-items: center;
+    //justify-content: start;
+}
+
+.fa-brands{
+    font-size: 150%;
+}
+
+
+
+
+/*-----Residential styling-----*/
+
+h2{
+    
+    color: $tomato;
+    font-weight: bolder;
+    width: 70%;
+}
+
+.residential-text{
+    border-left: 5px solid $tomato;
+    padding-left: 5%;
+   
+}
+
+/*-----Cases styling-----*/
+
+.redCases{
+    background-color: $tomato;
+    padding: 10%;
+    color: $white;
+}
+
+.casesHeading{
+    padding-bottom: 2%;
+    color: $white;
+}
+
+.project-heading{
+    padding: 5% 0 ;
+}
+
+.redCases p{
+    //width: 90%;
+    border-left: 5px solid $white;
+    padding-left: 5%;
+}
+
+
+.cases-btn{
+    background-color: $white;
+    padding: 3%;
+    color: $tomato;
+    margin-top: 20%;
+    
+}
+
+.cases-btn:hover{
+    background-color: $white;
+    padding: 3%;
+    color: $tomato;
+    margin-top: 10%;
+    
+}
+
+/*-----Banner styling-----*/
+
+.banner{
+    background-image: url("http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-2.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: $white;
+    text-align: center;
+    padding: 7% 0 7% 0;
+    margin: 1%;
+}
+
+
+
+/*-----Footer styling-----*/
+
+.socials{
+    text-align: center;
+}
+
+hr{
+    color: $tomato;
+}
+
+
+
+
+/* Banner section */
+.banner{
+    background-image: url('http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-2.png');
+    
+}
+
