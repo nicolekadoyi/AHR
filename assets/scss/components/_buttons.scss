@@ -1,0 +1,88 @@
+
+//Home page buttons
+
+.cases-btn{
+    background-color: $white;
+    padding: 3%;
+    color: $tomato;
+    margin-top: 20%;
+    text-decoration: double; 
+}
+
+.cases-btn:hover{
+    background-color: $white;
+    padding: 3%;
+    color: $tomato;
+    margin-top: 20%;
+    
+}
+
+.cases-arrow{
+    color: $tomato;
+}
+
+//Archive page buttons
+//Project buttons
+
+
+.greybg-btn{
+    background-color: $tomato;
+    color: $white;
+    padding: 3%;
+    margin-top: 20%;
+    text-decoration: none;
+ }
+ 
+ .greybg-btn :hover{
+    background-color: $tomato;
+    color: $white;
+    padding: 3%;
+    margin-top: 20%;
+    text-decoration: none;
+ }
+
+
+ .project-arrow{
+    color: $white;
+ }
+
+//Top category display buttons
+.all-btn{
+    background-color: $tomato;
+    color: $white;
+    padding: 1%;
+    border: none;
+}
+
+.category-btn{
+    background-color: $grey;
+    color: $tomato;
+    padding: 1%;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 0 0.5%;
+}
+
+
+.category-btn:hover{
+    background-color: $grey;
+    color: $tomato;
+    padding: 1%;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 0 0.5%;
+}
+
+.cat-btn{
+    text-decoration: none;
+}
+
+
+//Banner button
+
+.banner-btn{
+    background-color: $tomato;
+    border: none;
+    color: $white;
+    padding: 1%;
+}

@@ -1,0 +1,352 @@
+body {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 3.7rem;
+  font-weight: 900;
+  width: 50%;
+  margin: auto;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 2.7rem;
+}
+
+.residential_heading {
+  color: #F9423A;
+  width: 80%;
+}
+
+.cases-btn {
+  background-color: #EEE;
+  padding: 3%;
+  color: #F9423A;
+  margin-top: 20%;
+  -webkit-text-decoration: double;
+          text-decoration: double;
+}
+
+.cases-btn:hover {
+  background-color: #EEE;
+  padding: 3%;
+  color: #F9423A;
+  margin-top: 20%;
+}
+
+.cases-arrow {
+  color: #F9423A;
+}
+
+.greybg-btn {
+  background-color: #F9423A;
+  color: #EEE;
+  padding: 3%;
+  margin-top: 20%;
+  text-decoration: none;
+}
+
+.greybg-btn :hover {
+  background-color: #F9423A;
+  color: #EEE;
+  padding: 3%;
+  margin-top: 20%;
+  text-decoration: none;
+}
+
+.project-arrow {
+  color: #EEE;
+}
+
+.all-btn {
+  background-color: #F9423A;
+  color: #EEE;
+  padding: 1%;
+  border: none;
+}
+
+.category-btn {
+  background-color: #F9F9F9;
+  color: #F9423A;
+  padding: 1%;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin: 0 0.5%;
+}
+
+.category-btn:hover {
+  background-color: #F9F9F9;
+  color: #F9423A;
+  padding: 1%;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin: 0 0.5%;
+}
+
+.cat-btn {
+  text-decoration: none;
+}
+
+.banner-btn {
+  background-color: #F9423A;
+  border: none;
+  color: #EEE;
+  padding: 1%;
+}
+
+.banner {
+  background-image: url("http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-2.png");
+  background-size: cover;
+  color: #EEE;
+  text-align: center;
+  padding: 7% 0 7% 0;
+  margin: 1% 1% 7%;
+  height: auto;
+}
+
+.banner-title {
+  font-weight: 900;
+}
+
+.redCases {
+  background-color: #F9423A;
+  padding: 7%;
+  color: #EEE;
+  margin-bottom: 7%;
+}
+
+.casesHeading {
+  padding-bottom: 2%;
+  color: #EEE;
+}
+
+.project-heading {
+  padding: 5% 0;
+}
+
+.redCases p {
+  border-left: 5px solid #EEE;
+  padding-left: 5%;
+}
+
+.socials {
+  text-align: center;
+}
+
+hr {
+  color: #F9423A;
+}
+
+.footer-icons {
+  text-align: center;
+}
+
+.footer-socials {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+div.container-fluid.footer-menu ul li {
+  list-style-type: none;
+  margin: 2% 0;
+}
+
+.footer-menu .col ul li a {
+  color: #000;
+  text-decoration: none;
+}
+
+.footer-menu ul li.red a {
+  color: #F9423A;
+  font-weight: bold;
+}
+
+.footer-legal ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer-legal ul li {
+  list-style-type: none;
+}
+
+.footer-legal ul li a {
+  color: #000;
+  text-decoration: none;
+}
+
+.footer-legal ul li.mid-legal {
+  margin: 0 5%;
+}
+
+.header {
+  margin-bottom: 7%;
+}
+
+.home-hero {
+  background-image: url("http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-1.png");
+  background-size: cover;
+  color: #EEE;
+  margin: 1% 1% 7%;
+}
+
+.nav-link {
+  background-color: #F9423A;
+  color: #EEE;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  background-color: #F9423A;
+  color: #EEE;
+  font-weight: bold;
+}
+
+nav {
+  padding: 0;
+}
+
+.hero-content {
+  padding: 5% 0 10% 0;
+  text-align: center;
+}
+
+.hero-text, .banner-text {
+  width: 35%;
+  margin: auto;
+  padding-bottom: 3%;
+}
+
+.hero-btn {
+  background-color: #F9423A;
+  color: #EEE;
+  border-color: transparent;
+}
+
+.residential {
+  margin-bottom: 7%;
+}
+
+.residential-text {
+  border-left: 5px solid #F9423A;
+  padding-left: 5%;
+}
+
+.socials {
+  margin-bottom: 7%;
+}
+
+.follow {
+  background-color: #F9423A;
+  padding: 2%;
+  color: #EEE;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.social-icons {
+  background-color: #F9F9F9;
+  padding: 0.5%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.fa-brands {
+  font-size: 200%;
+  margin: 0 1%;
+}
+
+.gallery {
+  margin-bottom: 7%;
+}
+
+.header {
+  background-size: cover;
+}
+
+.archive-hero-text {
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.archive-heading {
+  padding: 5% 0% 2%;
+}
+
+.archive-categories {
+  margin: 3% 0;
+}
+
+.search-bar {
+  background-color: #F9F9F9;
+  padding: 2%;
+}
+
+.fa-magnifying-glass {
+  background-color: #F9423A;
+  color: #EEE;
+  padding: 2%;
+}
+
+.greybg {
+  background-color: #F9F9F9;
+  padding: 5% 6% 0%;
+}
+
+.greybg div {
+  margin-bottom: 5%;
+}
+
+.greybg .col-md-4 h4 {
+  margin: 5% 0;
+}
+
+.greybg .col-md-4 p {
+  border-left: 5px solid #F9423A;
+  padding-left: 5%;
+}
+
+.greybg .col-md-4 a {
+  background-color: #F9423A;
+  color: #EEE;
+  padding: 3%;
+  margin-top: 20%;
+}
+
+.single-text {
+  border-left: 5px solid #F9423A;
+  padding: 3%;
+}
+
+.hero-text {
+  padding-top: 3%;
+}
+
+.red {
+  color: #F9423A;
+}
+
+.project {
+  margin: 5% 0;
+}
+
+.single-project {
+  margin-bottom: 10%;
+}
+
+.single-content {
+  padding: 5% 0;
+}

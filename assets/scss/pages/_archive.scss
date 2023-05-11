@@ -1,0 +1,61 @@
+//////////////////////////Hero section styling/////////////////////
+.header{
+   background-size: cover; 
+}
+
+.archive-hero-text{
+   text-align: center;
+   padding-bottom: 10%;
+}
+
+.archive-heading{
+   padding:5% 0% 2%;
+}
+
+
+
+
+//////////////////////////Category section styling/////////////////////
+.archive-categories {
+   margin: 3% 0;
+}
+
+.search-bar{
+   background-color: $grey;
+   padding: 2%;
+}
+
+.fa-magnifying-glass{
+   background-color: $tomato;
+   color: $white;
+   padding: 2%;
+   
+}
+
+/////////////////////////////Projects Styling////////////////////////////////
+.greybg{
+   background-color: $grey;
+   padding: 5% 6% 0%;
+  
+}
+
+.greybg div{
+   margin-bottom: 5%;
+}
+
+.greybg .col-md-4 h4{
+   margin: 5% 0;
+}
+
+.greybg .col-md-4 p{
+   border-left: 5px solid $tomato;
+   padding-left: 5%;
+}
+
+
+.greybg .col-md-4 a{
+   background-color: $tomato;
+   color: $white;
+   padding: 3%;
+   margin-top: 20%;
+}

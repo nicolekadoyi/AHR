@@ -1,0 +1,27 @@
+
+
+.socials{
+    margin-bottom: $margin-bottom;
+}
+
+.follow{
+    background-color: $tomato;
+    padding: 2%;
+    color: $white;
+    font-size: 1.1em;
+    font-weight: bold;
+
+}
+
+.social-icons{
+    background-color: $grey;
+    padding: 0.5%;
+    display: flex;
+    align-items: center;
+    //justify-content: start;
+}
+
+.fa-brands{
+    font-size: 200%;
+    margin: 0 1%;
+}

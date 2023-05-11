@@ -1,0 +1,51 @@
+
+.socials{
+    text-align: center;
+}
+
+hr{
+    color: $tomato;
+}
+
+.footer-icons{
+	text-align: center;
+}
+
+.footer-socials{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+ div.container-fluid.footer-menu ul li {
+	list-style-type: none;
+	margin: 2% 0;
+ }
+
+.footer-menu .col ul li a{
+	color: $black;
+    text-decoration: none;
+ }
+
+ .footer-menu ul li.red a{
+	color: $tomato;
+	font-weight: bold;
+	
+ }
+
+ .footer-legal ul {
+	display: flex;
+ }
+ .footer-legal ul li{
+	list-style-type: none;	
+ }
+
+ .footer-legal ul li a{
+	color: $black;
+	text-decoration: none;
+ }
+
+ .footer-legal ul li.mid-legal{
+	margin: 0 5%;
+ }
+

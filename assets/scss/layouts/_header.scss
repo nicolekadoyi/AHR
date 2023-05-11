@@ -1,0 +1,44 @@
+.header{
+    margin-bottom: $margin-bottom;
+}
+
+.home-hero{
+    background-image: url("http://localhost:8080/wordpress/wordpress/wp-content/uploads/2022/08/The-Spine-royal-college-of-physicians-1.png");
+    background-size: cover;
+    color: $white;
+    margin: 1% 1% 7%;
+}
+
+.nav-link{
+    background-color: $tomato;
+    color: $white;
+    font-weight: bold;
+}
+
+.nav-link:hover{
+    background-color: $tomato;
+    color: $white;
+    font-weight: bold;
+}
+
+nav{
+    padding: 0;
+}
+
+
+.hero-content{
+    padding: 5% 0 10% 0;
+    text-align: center;
+}
+
+.hero-text , .banner-text{
+   width: 35%;
+   margin: auto;
+   padding-bottom: 3%;
+}
+
+.hero-btn{
+    background-color: $tomato;
+    color: $white;
+    border-color: transparent;
+}
